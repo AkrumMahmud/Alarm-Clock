@@ -10,4 +10,4 @@ It is possible to set one or two alarms. When an alarm fires, it will sound some
 
 Identify the top-level functional requirement for the clock, and model it with a use case diagram.  (Use case description will come later.  Only create the use case diagram now.)
 
-![picture](raw.https://github.com/AkrumMahmud/Alarm-Clock/blob/master/image1.JPG)
+![picture](relative/path/to/img.jpg?raw=true "image1.JPG")
